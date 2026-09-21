@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\menna-d\\full-stack depi\\c# basics\\assigments\\assigment7oop\\consoleapp1\\consoleapp1\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\menna-d\\full-stack depi\\c# basics\\assigments\\assigment7oop\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\menna-d\\full-stack depi\\c# basics\\assigments\\assigment7oop\\consoleapp1\\consoleapp1\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\menna-d\\full-stack depi\\c# basics\\assigments\\assigment7oop\\consoleapp1\\consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\menna-d\\full-stack depi\\c# basics\\assigments\\assigment7oop\\consoleapp1\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD36D6A-DFCF-4E08-854A-047AB00DD3E4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 355,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Child.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Child.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Child.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Child.cs",
+              "RelativeToolTip": "ConsoleApp1\\Child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:00:59.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Parent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Parent.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Parent.cs",
+              "RelativeToolTip": "ConsoleApp1\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:00:29.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Calculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Calculator.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Calculator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T18:59:52.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Car.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T18:58:30.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\C# Basics\\Assigments\\Assigment7oop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T18:55:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
